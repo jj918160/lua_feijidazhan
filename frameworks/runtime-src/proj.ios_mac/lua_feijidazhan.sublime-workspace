@@ -1,0 +1,395 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"str",
+				"string.format(formatstring,···)"
+			],
+			[
+				"pr",
+				"print(···)"
+			],
+			[
+				"visi",
+				"visibleSize	local"
+			],
+			[
+				"displa",
+				"display.height"
+			],
+			[
+				"getcont",
+				"getContentSize()	CCNode"
+			],
+			[
+				"getcon",
+				"getContentSize()	CCTexture2D"
+			],
+			[
+				"enemy",
+				"enemytype	parameter"
+			],
+			[
+				"new",
+				"new(...)"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"set",
+				"setmetatable(table,metatable)"
+			],
+			[
+				"getw",
+				"getWinSize()	CCDirector"
+			],
+			[
+				"getins",
+				"NodeReader:getInstance()"
+			],
+			[
+				"cre",
+				"createmap"
+			],
+			[
+				"l",
+				"layer"
+			],
+			[
+				"map",
+				"mapLayer"
+			],
+			[
+				"money",
+				"MoneySprite"
+			],
+			[
+				"o",
+				"objectA"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"fn",
+				"function	function"
+			],
+			[
+				"w",
+				"Windows"
+			],
+			[
+				"ma",
+				"main	main()"
+			],
+			[
+				"t",
+				"toString"
+			],
+			[
+				"s",
+				"set1"
+			],
+			[
+				"se",
+				"set2"
+			],
+			[
+				"in",
+				"intersection"
+			],
+			[
+				"fun",
+				"function	function"
+			],
+			[
+				"a",
+				"Age"
+			],
+			[
+				"te",
+				"textureDog"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 359.0,
+		"last_filter": "Package Control: install pa",
+		"selected_items":
+		[
+			[
+				"Package Control: install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				" ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in s",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os;pf = 'Package Control.sublime-package';ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) );open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler( ))); open( os.path.join( ipp, pf), 'wb' ).write( urllib2.urlopen( 'http://sublime.wbond.net/' +pf.replace( ' ','%20' )).read()); print( 'Please restart Sublime Text to finish installation') ",
+			"import urllib2,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();os.makedirs(ipp) if not os.path.exists(ipp) else None;open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())",
+			"install",
+			"import urllib2,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();os.makedirs(ipp) if not os.path.exists(ipp) else None;open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mac/Desktop/beifenwork/lua_feijidazhan/src/mobdebug.lua",
+		"/Users/mac/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/mac/Desktop/beifenwork/lua_feijidazhan/src/hello.lua",
+		"/Users/mac/Desktop/luatest/untitled.lua",
+		"/Users/mac/Desktop/luatest/cocos2d-temp.lua",
+		"/Users/mac/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-mousemap",
+		"/Users/mac/Library/Application Support/Sublime Text 3/Packages/CTags/Default.sublime-mousemap",
+		"/Users/mac/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/mac/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/Default (OSX).sublime-keymap",
+		"/Users/mac/Library/Application Support/Sublime Text 3/Packages/QuickXDev/Default (OSX).sublime-keymap",
+		"/Users/mac/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/mac/Library/Application Support/Sublime Text 3/Packages/DashDoc/Default (OSX).sublime-keymap",
+		"/Users/mac/Library/Application Support/Sublime Text 3/Packages/User/Default ().sublime-keymap",
+		"/Users/mac/Library/Application Support/Sublime Text 3/Packages/Default/Default ().sublime-keymap",
+		"/Users/mac/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/mac/Library/Application Support/Sublime Text 3/Packages/QuickXDev/QuickXDev.sublime-settings",
+		"/Users/mac/Library/Application Support/Sublime Text 3/Packages/User/QuickXDev.sublime-settings",
+		"/Users/mac/Library/Application Support/Sublime Text 3/Packages/Function Name Display/Function Name Display.sublime-settings",
+		"/Users/mac/Library/Application Support/Sublime Text 3/Packages/User/Function Name Display.sublime-settings",
+		"/Users/mac/Desktop/beifenwork/lua_feijidazhan/src/map.lua",
+		"/Users/mac/Downloads/cocos2d-x-3.7/cocos/scripting/lua-bindings/script/cocos2d/functions.lua",
+		"/Users/mac/Downloads/cocos2d-x-3.7/cocos/scripting/lua-bindings/script/cocos2d/luaj.lua",
+		"/Users/mac/Downloads/cocos2d-x-3.7/cocos/scripting/lua-bindings/script/cocos2d/Cocos2d.lua",
+		"/Users/mac/Downloads/cocos2d-x-3.7/cocos/scripting/lua-bindings/script/init.lua",
+		"/Users/mac/Desktop/beifenwork/lua_feijidazhan/src/cocos/init.lua",
+		"/Users/mac/Desktop/luatest/test1.lua",
+		"/Users/mac/Desktop/beifenwork/lua_feijidazhan/src/hello2.lua",
+		"/Users/mac/Desktop/beifenwork/lua_feijidazhan/src/mygame.lua",
+		"/Users/mac/Desktop/luatest/octest.mm",
+		"/Users/mac/Desktop/beifenwork/lua_feijidazhan/frameworks/runtime-src/Classes/AppDelegate.cpp",
+		"/Users/mac/Library/Application Support/Sublime Text 3/Packages/User/DashDoc.sublime-settings",
+		"/Users/mac/Library/Application Support/Sublime Text 3/Packages/User/lua2.sublime-build",
+		"/usr/local/bin/lua",
+		"/Users/mac/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/mac/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/mac/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/mac/Library/Application Support/Sublime Text 3/Packages/DashDoc/DashDoc.sublime-settings",
+		"/Users/mac/Desktop/beifenwork/lua_feijidazhan/src/packages/mvc/AppBase.lua",
+		"/Users/mac/Desktop/beifenwork/lua_feijidazhan/src/app/views/MainScene.lua",
+		"/Users/mac/Desktop/luatest/local function __tostring(value, indent, vmap).lua",
+		"/Users/mac/Desktop/luatest/untitled",
+		"/Users/mac/Desktop/luatest/msg",
+		"/Users/mac/Library/Application Support/Sublime Text 3/Packages/User/lua.sublime-build",
+		"/Users/mac/Library/Application Support/Sublime Text 3/Packages/User/untitled.sublime-build",
+		"/Users/mac/Desktop/beifenwork/lua_project/angry_bird/src/app/views/PlayScene.lua",
+		"/Users/mac/Desktop/beifenwork/lua_project/lua_test_1/src/hello.lua",
+		"/Users/mac/Desktop/beifenwork/lua_project/lua_test_1/src/config.lua",
+		"/Users/mac/Desktop/beifenwork/Lua_test/src/plane.lua",
+		"/Users/mac/Desktop/beifenwork/Lua_test/src/hello.lua"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ctor",
+			"--		  "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 86.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "Packages/User/lua.sublime-build",
+	"project": "lua_feijidazhan.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/beifenwork/lua_feijidazhan/src/map.lua"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
